@@ -5,11 +5,10 @@
   width: 800px;
   height: 350px;
   margin: 0 auto;
-  font-size: 15px;
+  font-size: 20px;
 }
 
 .theadContainer {
-  /* border: 2px solid #000; */
   background-color: #000;
   color: white;
 }
